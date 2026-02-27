@@ -46,6 +46,7 @@ Basic UI Design
 CSS Theme Switching
 
 #📂 Project Structure
+
 📁 dark-mode-toggle
  ├── index.html
  ├── style.css
