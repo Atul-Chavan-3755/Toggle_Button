@@ -50,6 +50,7 @@ CSS Theme Switching
  ├── index.html
  ├── style.css
  └── script.js
+
 #▶️ How to Run
 
 Clone the repository
