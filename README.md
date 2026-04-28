@@ -11,7 +11,7 @@ Click the button to switch the screen to Dark Mode, and click again to return to
 
 ⚡ Lightweight and beginner-friendly
 
-🧠 Demonstrates DOM manipulation
+🧠 Demonstrates DOM manipulation 
 
 📱 Responsive design
 
