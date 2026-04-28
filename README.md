@@ -5,7 +5,7 @@ Click the button to switch the screen to Dark Mode, and click again to return to
 
 #🚀 Features
 
-🌙 Toggle between Dark and Light themes
+🌙 Toggle between Dark and Light themes 
 
 🎨 Smooth UI theme transition
 
